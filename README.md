@@ -1,5 +1,8 @@
 You can use the tool directly: [Start](https://derredguardian.github.io/p2px-guardian/P2PxGuardian.html)
 
+<img width="1865" height="942" alt="grafik" src="https://github.com/user-attachments/assets/060f248a-5c01-4a54-92d2-d9240d008dff" />
+
+
 Or download P2PxGuardian.html and open it directly in your browser; on cell phones, the link is better because of microphone usage, since local HTML files don't have access to the microphone.
 
 IMPORTANT: You have to exchange Keys very fast. <20s otherwise the conaction will fail.
