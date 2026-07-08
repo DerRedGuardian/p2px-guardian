@@ -1,3 +1,8 @@
+You can use the tool directly: http://p2p.derredguardian.de/
+
+Or download P2PxGuardian.html and open it directly in your browser; on cell phones, the link is better because of microphone usage, since local HTML files don't have access to the microphone.
+
+
 User Manual
 
 1. Initialization (Pairing)
