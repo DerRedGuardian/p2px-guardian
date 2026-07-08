@@ -2,6 +2,8 @@ You can use the tool directly: [Start](https://derredguardian.github.io/p2px-gua
 
 Or download P2PxGuardian.html and open it directly in your browser; on cell phones, the link is better because of microphone usage, since local HTML files don't have access to the microphone.
 
+IMPORTANT: You have to exchange Keys very fast. <20s otherwise the conaction will fail.
+
 
 User Manual
 
